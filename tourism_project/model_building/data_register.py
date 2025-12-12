@@ -11,8 +11,6 @@ import os
 repo_id = "JefferyMendis/tourism-package-prediction"
 repo_type = "dataset"
 
-os.environ["HF_TOKEN"] = "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"
-
 # -------------------------------------------------------------------
 # Initialize the Hugging Face API client
 # The HF token must be stored as an environment variable: HF_TOKEN
