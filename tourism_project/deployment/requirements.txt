@@ -1,0 +1,20 @@
+# Core numerical stack
+numpy==1.26.4
+pandas==2.2.2
+
+# Machine Learning
+scikit-learn==1.3.2
+xgboost==2.1.4
+joblib==1.4.2
+
+# MLOps & Model Registry
+mlflow==3.0.1
+huggingface_hub==0.32.6
+
+# Streamlit App
+streamlit==1.43.2
+
+# Common utilities
+pyyaml==6.0.2
+typing_extensions==4.12.2
+protobuf==5.27.2

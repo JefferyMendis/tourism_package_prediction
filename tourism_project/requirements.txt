@@ -1,0 +1,5 @@
+huggingface_hub
+pandas
+scikit-learn
+xgboost
+mlflow
